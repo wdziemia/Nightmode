@@ -1,4 +1,7 @@
 # Nightmode
+
+Article explaining this feature: https://medium.com/@wdziemia/night-mode-79723ced5d14
+
 This example is a basic implementation of a dynmaic night-mode feature on Android. This example shows you how to implement night mode which can be:
 - Always Enabled
 - Always Disabled
